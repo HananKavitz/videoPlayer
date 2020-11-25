@@ -1,0 +1,11 @@
+.player {
+    width: 400px;
+    height: 400px;
+}
+
+.error {
+    background-color: darkred;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+}
